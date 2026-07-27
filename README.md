@@ -1,5 +1,4 @@
 # ClimateOps-Risk-Monitor
-# ClimateOps Risk Monitor
 
 Automated climate hazard and supply chain disruption monitoring pipeline, built solo in **n8n**. Monitors a 15-supplier portfolio daily and flags which suppliers face elevated climate/disaster risk — before a shipment is late, not after.
 
